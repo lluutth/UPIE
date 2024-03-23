@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+body{
+    font-variant: "Montserrat";
+    background-color: rgb(153, 229, 255);
+}
+.profile{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.profile{
+    max-width: 150px;
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    border: 3px solid blanchedalmond;
+    box-shadow: 0 0 10px rgba(0, 0, 0 );
+}
